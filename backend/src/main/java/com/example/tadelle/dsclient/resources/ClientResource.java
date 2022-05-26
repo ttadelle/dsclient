@@ -1,4 +1,4 @@
-package com.example.tadelle.dsclient.resource;
+package com.example.tadelle.dsclient.resources;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
